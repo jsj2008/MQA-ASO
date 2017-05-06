@@ -6,25 +6,25 @@ ASO for App Store Optimization
 
 
 
-
 *****
 
 
 # Ranking algorithm
 
 
+https://github.com/batmannolove/MQA-ASO/issues/11
+
 
 
 # Recommender system
 
-
+https://github.com/batmannolove/MQA-Recommender-System
 
 
 # Review analytics
 
-(emotion,feedback keyword)
 
-
+https://github.com/batmannolove/MQA-ASO/issues/10
 
 
 
